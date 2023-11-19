@@ -139,6 +139,7 @@ main{
         border-left: none;
     }
     .inf-user > label > input{
-        width: calc(100% - 20px);
+        width: 100%;
+        margin: 0;
     }
 }
