@@ -125,3 +125,8 @@ main{
     background: #3f475f;
     transform: rotateZ(-10deg);
 }
+@media(max-width: 700px){
+    main{
+        width: 65vw;
+    }
+}
