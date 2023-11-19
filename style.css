@@ -131,7 +131,6 @@ main{
         justify-items: center;
         align-items: center;
         width: 65vw;
-        border: 1px solid black;
     }
     .inf-user{
         width: 100%;
@@ -140,6 +139,7 @@ main{
     }
     .inf-user > label > input{
         width: 100%;
-        margin: 0;
+        margin: 10px 0;
+        padding-left: 0;
     }
 }
