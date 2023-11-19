@@ -71,15 +71,16 @@ main{
 
 .inf-user{
     width: 47%;
-    min-width: 300px;
+    min-width: 200px;
     height: 500px;
     padding-left: 20px;
+    border: 1px solid black;
     border-left: 2px solid rgba(228, 228, 228, 0.685);
 }
 .inf-user > label > input{
     display: block;
     width: 30vw;
-    min-width: 250px;
+    min-width: 200px;
     height: 30px;
     margin: 10px;
     padding-left: 10px;
@@ -87,6 +88,8 @@ main{
     -webkit-box-shadow: 0px 0px 2px 1px rgba(197, 197, 197, 0.77) inset;
     -moz-box-shadow: 0px 0px 7px 2px rgba(197, 197, 197, 0.77) inset;
     border-radius: 4px;
+    border: 1px solid black;
+    
 }
 .inf-user div{
     display: flex;
@@ -95,7 +98,7 @@ main{
 
 .inf-user > div > label > input{
     width: calc(30vw);
-    min-width: 250px;
+    min-width: 200px;
     height: 30px;
     margin-left: 10px;
     padding-left: 10px;
@@ -103,6 +106,7 @@ main{
     -webkit-box-shadow: 0px 0px 2px 1px rgba(197, 197, 197, 0.77) inset;
     -moz-box-shadow: 0px 0px 7px 2px rgba(197, 197, 197, 0.77) inset;
     border-radius: 4px;
+    border: 1px solid black;
 }
 .inf-user > div > button{
     display: inline-flex;
