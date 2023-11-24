@@ -19,7 +19,7 @@ textarea:focus, input:focus, select:focus {
 }
 main{
     width: 70vw;
-    max-width: 900px;
+    max-width: 1000px;
     padding: 50px;
     margin: 20px auto;
     display: flex;
